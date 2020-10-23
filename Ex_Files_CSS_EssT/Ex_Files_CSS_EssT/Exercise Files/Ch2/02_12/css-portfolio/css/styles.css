@@ -1,0 +1,58 @@
+/* 
+COLOR PALETTE
+#F7FFF7 - almost white
+#343434 - dark grey - almost black
+#2F3061 - blue dark
+#FFE66D - yellow
+#A1C6D7 - blue light */
+
+/* Global styles
+-----------------------------------*/
+body {
+  color : #343434;
+}
+
+img {
+  width: 300px;
+}
+
+
+/* Profile
+-----------------------------------*/
+
+header {
+  background: #2F3061;
+  color: #f7fff7;
+}
+
+/* Projects
+-----------------------------------*/
+.project {
+  background: #F7FFF7;
+}
+
+
+
+
+/* Work Experience
+-----------------------------------*/
+.work-experience {
+  background: #A1C6D7;
+}
+
+
+
+/* Education
+-----------------------------------*/
+
+
+
+
+
+/* Contact Info
+-----------------------------------*/
+
+footer {
+  background: #343434;
+  color: #f7fff7;
+}
